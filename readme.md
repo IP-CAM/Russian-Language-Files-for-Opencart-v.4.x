@@ -1,37 +1,38 @@
-# Русский язык для OpenCart 4
-Русификация opencart 4.
+# Russian language for OpenCart 4
+Russification of opencart 4.
 
-## Описание
+## Description
 
-### Переведены папки:
-* `admin/*` *(в процессе)*
-* `catalog/*` *(в процессе)*
-* `extension/opencart/*` *(в процессе)*
-* `install/*` (так же переведен `install/opencart.sql`) *(в процессе)*
+### Translated folders:
+* `admin / *` * (in progress) *
+* `catalog / *` * (in progress) *
+* `extension / opencart / *` * (in progress) *
+* `install / *` (also translated `install / opencart.sql`) * (in progress) *
 
-## Установка
+## Installation
 
-### Установка русификатора OpenCart 4:
-1. Скопируйте в корень Вашего магазина на OpenCart из папки `upload` все, **КРОМЕ** папки `install`.
-2. В панели управления перейдите в `System -> Localisation -> Languages` и нажмите на кнопку "Add new" с плюсом, чтобы перейти на страницу добавления нового языка.
-3. Заполните все поля согласно данным ниже:
-    * `Language Name` -> `Русский`
-    * `Code` -> `ru-ru`
-    * `Locale` -> `ru_RU.UTF-8,ru_RU,ru-ru,ru_ru,russian`
-    * `Status` -> `Enabled`
-    * `Sort Order` -> `1`
-4. Нажмите после заполнения на кнопку "Save", чтобы добавить русский язык.
-5. В панели управления перейдите в `System -> Settings`.
-6. Нажмите кнопку "Edit" с карандашом в столбце "Action" Вашего магазина, например в строке "Your Store (Default)".
-7. Перейдите на вкладку "Local" для выбора языка по умолчанию.
-8. В меню "Language" выбрать "Русский", для установки русского языка по умолчанию для магазина.
-9. В меню "Administration Language" выбрать "Русский", для установки русского языка по умолчанию для панели управления магазином.
-10. Нажмите после выбора языков на кнопку с дискетой "Save", чтобы сохранить текущие настройки.
+### Installing OpenCart 4 Russifier:
+1. Copy everything from the `upload` folder to the root of your store on OpenCart, ** EXCEPT ** the` install` folder.
+2. In the control panel go to `System -> Localization -> Languages` and click on the" Add new "button with a plus to go to the page for adding a new language.
+3. Fill in all the fields as shown below:
+    * `Language Name` ->` Russian`
+    * `Code` ->` ru-ru`
+    * `Locale` ->` ru_RU.UTF-8, ru_RU, ru-ru, ru_ru, russian`
+    * `Status` ->` Enabled`
+    * `Sort Order` ->` 1`
+4. Press after filling on the "Save" button to add the Russian language.
+5. In the control panel go to `System -> Settings`.
+6. Press the "Edit" button with a pencil in the "Action" column of your store, for example, in the "Your Store (Default)" line.
+7. Click the "Local" tab to select the default language.
+8. In the "Language" menu, select "Russian" to set the default Russian language for the store.
+9. In the "Administration Language" menu, select "Russian" to set the default Russian language for the store control panel.
+10. After selecting the languages, press the "Save" button with the floppy disk to save the current settings.
 
-### Установка OpenCart 4 на русском языке:
-1. Скопируйте в корень Вашего магазина на OpenCart из папки `upload` все.
-2. Перейдите к установке интернет магазина на опенкарт.
+### Installing OpenCart 4 in Russian:
+1. Copy everything from the `upload` folder to the root of your store on OpenCart.
+2. Proceed to the installation of the online store on opencart.
 
-## Ссылки
-* [OpenCart](https://opencart.com/)
-* [Форум русскоязычного сообщества](https://forum.opencart.name/)
+## Links
+* [OpenCart] (https://opencart.com/)
+* [Forum of the Russian-speaking community] (https://forum.opencart.name/)
+* 
