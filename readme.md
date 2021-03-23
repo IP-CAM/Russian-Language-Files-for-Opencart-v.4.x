@@ -35,4 +35,3 @@ Russification of opencart 4.
 ## Links
 * [OpenCart] (https://opencart.com/)
 * [Forum of the Russian-speaking community] (https://forum.opencart.name/)
-* 
